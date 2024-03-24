@@ -23,11 +23,11 @@ Docker Swarm是Docker官方提供的一款集群管理工具，其主要作用�
 
 ## 2.1 架构
 
-![](Docker主机集群化方案 Docker Swarm.assets/docker swarm架构图.png)
+![](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/docker%20swarm%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 
 
 
-![image-20220216093807929](Docker主机集群化方案 Docker Swarm.assets/image-20220216093807929.png)
+![image-20220216093807929](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220216093807929.png)
 
 
 
@@ -68,7 +68,7 @@ Docker Swarm是Docker官方提供的一款集群管理工具，其主要作用�
 
 
 
-![image-20220216093706989](Docker主机集群化方案 Docker Swarm.assets/image-20220216093706989.png)
+![image-20220216093706989](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220216093706989.png)
 
 
 
@@ -82,7 +82,7 @@ Docker Swarm是Docker官方提供的一款集群管理工具，其主要作用�
 
 
 
-![image-20220216111914692](Docker主机集群化方案 Docker Swarm.assets/image-20220216111914692.png)
+![image-20220216111914692](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220216111914692.png)
 
 
 
@@ -606,7 +606,7 @@ CMD /usr/sbin/nginx
 
 
 
-![image-20220216163257339](Docker主机集群化方案 Docker Swarm.assets/image-20220216163257339.png)
+![image-20220216163257339](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220216163257339.png)
 
 
 
@@ -715,7 +715,7 @@ v1
 
 
 
-![image-20220216174612048](Docker主机集群化方案 Docker Swarm.assets/image-20220216174612048.png)
+![image-20220216174612048](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220216174612048.png)
 
 ## 4.3 服务扩展
 
@@ -1159,7 +1159,7 @@ gq0ogycj7orb   tomcat.2   tomcat:7.0.96-jdk8-openjdk   sm2       Running        
 
 
 
-![image-20220216222436884](Docker主机集群化方案 Docker Swarm.assets/image-20220216222436884.png)
+![image-20220216222436884](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220216222436884.png)
 
 
 
@@ -1816,7 +1816,7 @@ round-trip min/avg/max = 0.093/0.127/0.162 ms
 
 - custom-network是用户自己创建的overlay网络，通常我们都需要创建自己的network并把service挂在上面。
 
- ![service ingress image](Docker主机集群化方案 Docker Swarm.assets/ingress-routing-mesh.png)
+ ![service ingress image](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/ingress-routing-mesh.png)
 
 
 
@@ -1937,7 +1937,7 @@ zf1h2r4m12li   stack1_wordpress   replicated   1/1        wordpress:latest   *:8
 
 3, 验证
 
-![image-20220217102033645](Docker主机集群化方案 Docker Swarm.assets/image-20220217102033645.png)
+![image-20220217102033645](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220217102033645.png)
 
 
 
@@ -2021,11 +2021,11 @@ ty0mktx60typ   stack2_visualizer.1   dockersamples/visualizer:latest   sm1      
 
 
 
-![image-20220217102606092](Docker主机集群化方案 Docker Swarm.assets/image-20220217102606092.png)
+![image-20220217102606092](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220217102606092.png)
 
 
 
-![image-20220217102654303](Docker主机集群化方案 Docker Swarm.assets/image-20220217102654303.png)
+![image-20220217102654303](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220217102654303.png)
 
 
 
@@ -2146,11 +2146,11 @@ Creating service stack3_nginx2
 
 
 
-![image-20220217120725646](Docker主机集群化方案 Docker Swarm.assets/image-20220217120725646.png)
+![image-20220217120725646](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220217120725646.png)
 
 
 
-![image-20220217120746215](Docker主机集群化方案 Docker Swarm.assets/image-20220217120746215.png)
+![image-20220217120746215](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220217120746215.png)
 
 
 

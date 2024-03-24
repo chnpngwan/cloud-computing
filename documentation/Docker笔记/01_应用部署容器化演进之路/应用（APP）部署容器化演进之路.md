@@ -36,7 +36,7 @@
 
 
 
-![image-20220118161531257](应用（APP）部署容器化演进之路.assets/image-20220118161531257.png)
+![image-20220118161531257](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118161531257.png)
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-![image-20220118161210084](应用（APP）部署容器化演进之路.assets/image-20220118161210084.png)
+![image-20220118161210084](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118161210084.png)
 
 
 
@@ -91,7 +91,7 @@
 
 ## 2.3 使用容器的优点与缺点
 
-![image-20220118161301903](应用（APP）部署容器化演进之路.assets/image-20220118161301903.png)
+![image-20220118161301903](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118161301903.png)
 
 
 
@@ -116,7 +116,7 @@
 
 ## 3.1 容器定义
 
-![image-20220118161407959](应用（APP）部署容器化演进之路.assets/image-20220118161407959.png)
+![image-20220118161407959](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118161407959.png)
 
 
 

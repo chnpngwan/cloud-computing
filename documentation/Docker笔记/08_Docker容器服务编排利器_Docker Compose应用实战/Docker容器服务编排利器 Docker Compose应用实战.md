@@ -41,7 +41,7 @@
 
 
 
-![image-20220215214445753](Docker容器服务编排利器 Docker Compose应用实战.assets/image-20220215214445753.png)
+![image-20220215214445753](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220215214445753.png)
 
 
 
@@ -74,25 +74,25 @@
 
 
 
-![image-20220215215146472](Docker容器服务编排利器 Docker Compose应用实战.assets/image-20220215215146472.png)
+![image-20220215215146472](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220215215146472.png)
 
 
 
 
 
-![image-20220215215216047](Docker容器服务编排利器 Docker Compose应用实战.assets/image-20220215215216047.png)
+![image-20220215215216047](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220215215216047.png)
 
 
 
 
 
-![image-20220215215239151](Docker容器服务编排利器 Docker Compose应用实战.assets/image-20220215215239151.png)
+![image-20220215215239151](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220215215239151.png)
 
 
 
 
 
-![image-20220215215359944](Docker容器服务编排利器 Docker Compose应用实战.assets/image-20220215215359944.png)
+![image-20220215215359944](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220215215359944.png)
 
 
 
@@ -381,7 +381,7 @@ flaskproject-web-1    |  * Running on http://172.18.0.2:5000/ (Press CTRL+C to q
 
 
 
-![image-20220215221648195](Docker容器服务编排利器 Docker Compose应用实战.assets/image-20220215221648195.png)
+![image-20220215221648195](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220215221648195.png)
 
 
 

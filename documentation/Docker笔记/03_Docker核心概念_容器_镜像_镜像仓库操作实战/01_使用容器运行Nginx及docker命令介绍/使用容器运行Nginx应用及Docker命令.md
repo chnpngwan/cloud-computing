@@ -144,7 +144,7 @@ docker inspect 为查看容器结构信息命令
 
 
 
-![image-20220121172037253](使用容器运行Nginx应用及Docker命令.assets/image-20220121172037253.png)
+![image-20220121172037253](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220121172037253.png)
 
 
 
@@ -303,15 +303,15 @@ Commands: 未分组命令
 
 
 
-![image-20220121173519802](使用容器运行Nginx应用及Docker命令.assets/image-20220121173519802.png)
+![image-20220121173519802](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220121173519802.png)
 
 
 
-![image-20220121173613294](使用容器运行Nginx应用及Docker命令.assets/image-20220121173613294.png)
+![image-20220121173613294](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220121173613294.png)
 
 
 
-![image-20220121173705508](使用容器运行Nginx应用及Docker命令.assets/image-20220121173705508.png)
+![image-20220121173705508](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220121173705508.png)
 
 
 

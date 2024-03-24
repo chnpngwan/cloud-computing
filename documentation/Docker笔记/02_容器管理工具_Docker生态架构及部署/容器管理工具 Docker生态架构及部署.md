@@ -4,13 +4,13 @@
 
 ## 1.1 Docker Containers Are Everywhere
 
-![image-20220118165726624](容器管理工具 Docker生态架构及部署.assets/image-20220118165726624.png)
+![image-20220118165726624](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118165726624.png)
 
 
 
 ## 1.2 生态架构
 
-![image-20220118170228476](容器管理工具 Docker生态架构及部署.assets/image-20220118170228476.png)
+![image-20220118170228476](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118170228476.png)
 
 
 
@@ -58,7 +58,7 @@ Docker Dashboard 提供了一个简单的界面，使您能够直接从您的机
 
 
 
-![image-20220118185507047](容器管理工具 Docker生态架构及部署.assets/image-20220118185507047.png)
+![image-20220118185507047](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118185507047.png)
 
 
 
@@ -85,15 +85,15 @@ Docker Dashboard 提供了一个简单的界面，使您能够直接从您的机
 
 
 
-![image-20220118181640863](容器管理工具 Docker生态架构及部署.assets/image-20220118181640863.png)
+![image-20220118181640863](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118181640863.png)
 
 
 
-![image-20220118181837065](容器管理工具 Docker生态架构及部署.assets/image-20220118181837065.png)
+![image-20220118181837065](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118181837065.png)
 
 
 
-![image-20220118182432607](容器管理工具 Docker生态架构及部署.assets/image-20220118182432607.png)
+![image-20220118182432607](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118182432607.png)
 
 
 
@@ -106,7 +106,7 @@ Docker Dashboard 提供了一个简单的界面，使您能够直接从您的机
 
 
 
-![image-20220118182749037](容器管理工具 Docker生态架构及部署.assets/image-20220118182749037.png)
+![image-20220118182749037](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118182749037.png)
 
 
 
@@ -123,7 +123,7 @@ Docker Dashboard 提供了一个简单的界面，使您能够直接从您的机
 
 
 
-![image-20220118183627705](容器管理工具 Docker生态架构及部署.assets/image-20220118183627705.png)
+![image-20220118183627705](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118183627705.png)
 
 
 
@@ -141,11 +141,11 @@ Docker Dashboard 提供了一个简单的界面，使您能够直接从您的机
 
 
 
-![image-20220118184308554](容器管理工具 Docker生态架构及部署.assets/image-20220118184308554.png)
+![image-20220118184308554](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118184308554.png)
 
 
 
-![image-20220118184420795](容器管理工具 Docker生态架构及部署.assets/image-20220118184420795.png)
+![image-20220118184420795](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118184420795.png)
 
 
 
@@ -207,39 +207,39 @@ Server: Docker Engine - Community Docker管理引擎
 
 二进制安装参考网址：https://docs.docker.com/engine/install/binaries/
 
-![image-20220118185625614](容器管理工具 Docker生态架构及部署.assets/image-20220118185625614.png)
+![image-20220118185625614](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118185625614.png)
 
 
 
-![image-20220118185711358](容器管理工具 Docker生态架构及部署.assets/image-20220118185711358.png)
+![image-20220118185711358](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118185711358.png)
 
 
 
-![image-20220118185814368](容器管理工具 Docker生态架构及部署.assets/image-20220118185814368.png)
+![image-20220118185814368](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118185814368.png)
 
 
 
-![image-20220118185911155](容器管理工具 Docker生态架构及部署.assets/image-20220118185911155.png)
+![image-20220118185911155](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118185911155.png)
 
 
 
-![image-20220118190235182](容器管理工具 Docker生态架构及部署.assets/image-20220118190235182.png)
+![image-20220118190235182](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118190235182.png)
 
 
 
-![image-20220118190327846](容器管理工具 Docker生态架构及部署.assets/image-20220118190327846.png)
+![image-20220118190327846](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118190327846.png)
 
 
 
-![image-20220118190507974](容器管理工具 Docker生态架构及部署.assets/image-20220118190507974.png)
+![image-20220118190507974](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118190507974.png)
 
 
 
-![image-20220118190622614](容器管理工具 Docker生态架构及部署.assets/image-20220118190622614.png)
+![image-20220118190622614](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118190622614.png)
 
 
 
-![image-20220118190654730](容器管理工具 Docker生态架构及部署.assets/image-20220118190654730.png)
+![image-20220118190654730](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220118190654730.png)
 
 
 

@@ -6,7 +6,7 @@
 
 如下图所示：
 
-![img](Dockerfile精讲及新型容器镜像构建技术.assets/clip_image002.jpg)
+![img](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/clip_image002.jpg)
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-![image-20220210123047484](Dockerfile精讲及新型容器镜像构建技术.assets/image-20220210123047484.png)
+![image-20220210123047484](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220210123047484.png)
 
 
 
@@ -185,7 +185,7 @@ httpd-2.4.6-97.el7.centos.4.x86_64
 
 Dockerfile是一种能够被Docker程序解释的剧本。Dockerfile由一条一条的指令组成，并且有自己的书写格式和支持的命令。当我们需要在容器镜像中指定自己额外的需求时，只需在Dockerfile上添加或修改指令，然后通过docker build生成我们自定义的容器镜像（image）。
 
-<img src="Dockerfile精讲及新型容器镜像构建技术.assets/clip_image002-1644469873598.jpg" alt="img"  />
+<img src="https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/clip_image002-1644469873598.jpg" alt="img"  />
 
 
 
@@ -399,7 +399,7 @@ WORKDIR /root
 
 ### 4.4.4 Dockerfile生成容器镜像方法
 
-![image-20220210132232826](Dockerfile精讲及新型容器镜像构建技术.assets/image-20220210132232826.png)
+![image-20220210132232826](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220210132232826.png)
 
 ### 4.4.5 Dockerfile生成容器镜像案例
 

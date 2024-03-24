@@ -29,7 +29,7 @@
 
 
 
-<img src="基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220223152003734.png" alt="image-20220223152003734" style="zoom:200%;" />
+<img src="https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220223152003734.png" alt="image-20220223152003734" style="zoom:200%;" />
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-<img src="基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220223163453076.png" alt="image-20220223163453076" style="zoom:200%;" />
+<img src="https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220223163453076.png" alt="image-20220223163453076" style="zoom:200%;" />
 
 
 
@@ -194,17 +194,17 @@ DNS1="119.29.29.29"
 
 #### 4.3.2.1 获取YUM源
 
-![image-20220224134917428](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224134917428.png)
+![image-20220224134917428](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224134917428.png)
 
-![image-20220224134941802](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224134941802.png)
-
-
-
-![image-20220224135000130](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224135000130.png)
+![image-20220224134941802](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224134941802.png)
 
 
 
-![image-20220224135021076](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224135021076.png)
+![image-20220224135000130](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224135000130.png)
+
+
+
+![image-20220224135021076](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224135021076.png)
 
 
 
@@ -274,11 +274,11 @@ Password: znS4Bqlp0cfYUKg2dHzFiNCAN0GnhtnD4ENjEtEXMVE=
 
 
 
-![image-20220224140418176](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224140418176.png)
+![image-20220224140418176](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224140418176.png)
 
 
 
-![image-20220224140436172](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224140436172.png)
+![image-20220224140436172](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224140436172.png)
 
 
 
@@ -336,19 +336,19 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 
 
-![image-20220224141530225](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224141530225.png)
+![image-20220224141530225](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224141530225.png)
 
 
 
 
 
-![image-20220224141610569](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224141610569.png)
+![image-20220224141610569](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224141610569.png)
 
 
 
 
 
-![image-20220224141720927](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224141720927.png)
+![image-20220224141720927](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224141720927.png)
 
 
 
@@ -366,7 +366,7 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 
 
-![image-20220224142031988](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224142031988.png)
+![image-20220224142031988](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224142031988.png)
 
 
 
@@ -453,7 +453,7 @@ network         0:关    1:关    2:开    3:开    4:开    5:开    6:关
 
 
 
-![image-20220224142955854](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224142955854.png)
+![image-20220224142955854](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224142955854.png)
 
 
 
@@ -461,35 +461,35 @@ network         0:关    1:关    2:开    3:开    4:开    5:开    6:关
 
 
 
-![image-20220224173833454](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224173833454.png)
+![image-20220224173833454](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224173833454.png)
 
 
 
 
 
-![image-20220224174018298](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174018298.png)
+![image-20220224174018298](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174018298.png)
 
 
 
-![image-20220224174041874](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174041874.png)
+![image-20220224174041874](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174041874.png)
 
 
 
-![image-20220224174442874](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174442874.png)
+![image-20220224174442874](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174442874.png)
 
 
 
-![image-20220224174507233](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174507233.png)
+![image-20220224174507233](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174507233.png)
 
 
 
 
 
-![image-20220224174541367](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174541367.png)
+![image-20220224174541367](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174541367.png)
 
 
 
-![image-20220224174601389](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174601389.png)
+![image-20220224174601389](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174601389.png)
 
 
 
@@ -517,13 +517,13 @@ network         0:关    1:关    2:开    3:开    4:开    5:开    6:关
 
 
 
-![image-20220224174735575](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174735575.png)
+![image-20220224174735575](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174735575.png)
 
 
 
 
 
-![image-20220224174855779](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224174855779.png)
+![image-20220224174855779](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224174855779.png)
 
 
 
@@ -647,23 +647,23 @@ OS name: "linux", version: "3.10.0-1160.49.1.el7.x86_64", arch: "amd64", family:
 
 
 
-![image-20220224180711917](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224180711917.png)
+![image-20220224180711917](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224180711917.png)
 
 
 
-![image-20220224180732745](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224180732745.png)
-
-
-
-
-
-![image-20220224180754614](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224180754614.png)
+![image-20220224180732745](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224180732745.png)
 
 
 
 
 
-![image-20220224180842212](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224180842212.png)
+![image-20220224180754614](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224180754614.png)
+
+
+
+
+
+![image-20220224180842212](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224180842212.png)
 
 
 
@@ -711,27 +711,27 @@ Docker Compose version v2.2.3
 
 ##### 4.3.4.3.1 harbor部署文件获取
 
-![image-20220224181602622](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224181602622.png)
+![image-20220224181602622](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224181602622.png)
 
 
 
-![image-20220224181626286](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224181626286.png)
-
-
-
-
-
-![image-20220224181656604](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224181656604.png)
-
-
-
-![image-20220224181746808](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224181746808.png)
+![image-20220224181626286](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224181626286.png)
 
 
 
 
 
-![image-20220224181829179](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224181829179.png)
+![image-20220224181656604](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224181656604.png)
+
+
+
+![image-20220224181746808](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224181746808.png)
+
+
+
+
+
+![image-20220224181829179](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224181829179.png)
 
 
 
@@ -1039,15 +1039,15 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCy2PdvT9qX55CLZzzaaEf06x8gl3yHGfdJSmAp9L1F
 
 
 
-![image-20220224210606310](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224210606310.png)
+![image-20220224210606310](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224210606310.png)
 
 
 
-![image-20220224210748207](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224210748207.png)
+![image-20220224210748207](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224210748207.png)
 
 
 
-![image-20220224210823231](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224210823231.png)
+![image-20220224210823231](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224210823231.png)
 
 
 
@@ -1076,7 +1076,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCyg3WaEm5yH9yva8Jm5wfTPwN3ROGMNPpAex8zYj+M
 
 
 
-![image-20220224211329307](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224211329307.png)
+![image-20220224211329307](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224211329307.png)
 
 
 
@@ -1119,27 +1119,27 @@ y+ydl4xTcCPoAMDsVeamJ3fv+9nyXe5KqYtw+BJMjpP+PnNN2YQ=
 
 
 
-![image-20220224212308684](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224212308684.png)
+![image-20220224212308684](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224212308684.png)
 
-![image-20220224212411414](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224212411414.png)
-
-
-
-![image-20220224212543257](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224212543257.png)
+![image-20220224212411414](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224212411414.png)
 
 
 
-![image-20220224212622017](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224212622017.png)
+![image-20220224212543257](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224212543257.png)
 
 
 
-![image-20220224212928853](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224212928853.png)
+![image-20220224212622017](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224212622017.png)
+
+
+
+![image-20220224212928853](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224212928853.png)
 
 
 
 
 
-![image-20220224213022249](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224213022249.png)
+![image-20220224213022249](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224213022249.png)
 
 
 
@@ -1153,19 +1153,19 @@ y+ydl4xTcCPoAMDsVeamJ3fv+9nyXe5KqYtw+BJMjpP+PnNN2YQ=
 
 
 
-![image-20220224214012429](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214012429.png)
+![image-20220224214012429](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214012429.png)
 
 
 
-![image-20220224214041517](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214041517.png)
+![image-20220224214041517](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214041517.png)
 
 
 
-![image-20220224214133277](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214133277.png)
+![image-20220224214133277](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214133277.png)
 
 
 
-![image-20220224214217988](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214217988.png)
+![image-20220224214217988](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214217988.png)
 
 
 
@@ -1177,13 +1177,13 @@ y+ydl4xTcCPoAMDsVeamJ3fv+9nyXe5KqYtw+BJMjpP+PnNN2YQ=
 
 
 
-![image-20220224214317316](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214317316.png)
+![image-20220224214317316](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214317316.png)
 
 
 
 
 
-![image-20220224214329349](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214329349.png)
+![image-20220224214329349](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214329349.png)
 
 
 
@@ -1197,11 +1197,11 @@ y+ydl4xTcCPoAMDsVeamJ3fv+9nyXe5KqYtw+BJMjpP+PnNN2YQ=
 
 
 
-![image-20220224214412283](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214412283.png)
+![image-20220224214412283](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214412283.png)
 
 
 
-![image-20220224214442366](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214442366.png)
+![image-20220224214442366](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214442366.png)
 
 
 
@@ -1215,13 +1215,13 @@ y+ydl4xTcCPoAMDsVeamJ3fv+9nyXe5KqYtw+BJMjpP+PnNN2YQ=
 
 
 
-![image-20220224214812077](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214812077.png)
+![image-20220224214812077](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214812077.png)
 
 
 
 
 
-![image-20220224214922182](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224214922182.png)
+![image-20220224214922182](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224214922182.png)
 
 
 
@@ -1235,17 +1235,17 @@ y+ydl4xTcCPoAMDsVeamJ3fv+9nyXe5KqYtw+BJMjpP+PnNN2YQ=
 
 
 
-![image-20220224215008239](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224215008239.png)
+![image-20220224215008239](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224215008239.png)
 
 
 
-![image-20220224215019932](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224215019932.png)
+![image-20220224215019932](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224215019932.png)
 
 
 
 ## 4.6 jenkins全局工具配置
 
-![image-20220224215857618](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224215857618.png)
+![image-20220224215857618](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224215857618.png)
 
 
 
@@ -1266,11 +1266,11 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 
 
-![image-20220224220023637](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224220023637.png)
+![image-20220224220023637](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224220023637.png)
 
 
 
-![image-20220224220323445](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224220323445.png)
+![image-20220224220323445](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224220323445.png)
 
 
 
@@ -1285,7 +1285,7 @@ git version 1.8.3.1
 
 
 
-![image-20220224220502686](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224220502686.png)
+![image-20220224220502686](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224220502686.png)
 
 
 
@@ -1312,7 +1312,7 @@ OS name: "linux", version: "3.10.0-1160.49.1.el7.x86_64", arch: "amd64", family:
 
 
 
-![image-20220224220529911](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224220529911.png)
+![image-20220224220529911](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224220529911.png)
 
 
 
@@ -1320,7 +1320,7 @@ OS name: "linux", version: "3.10.0-1160.49.1.el7.x86_64", arch: "amd64", family:
 
 
 
-![image-20220224220733835](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224220733835.png)
+![image-20220224220733835](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224220733835.png)
 
 
 
@@ -1338,23 +1338,23 @@ OS name: "linux", version: "3.10.0-1160.49.1.el7.x86_64", arch: "amd64", family:
 
 
 
-![image-20220224221320500](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221320500.png)
+![image-20220224221320500](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221320500.png)
 
 
 
-![image-20220224221347030](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221347030.png)
+![image-20220224221347030](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221347030.png)
 
 
 
-![image-20220224221416358](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221416358.png)
+![image-20220224221416358](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221416358.png)
 
 
 
-![image-20220224221609980](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221609980.png)
+![image-20220224221609980](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221609980.png)
 
 
 
-![image-20220224221643648](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221643648.png)
+![image-20220224221643648](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221643648.png)
 
 
 
@@ -1366,19 +1366,19 @@ OS name: "linux", version: "3.10.0-1160.49.1.el7.x86_64", arch: "amd64", family:
 
 
 
-![image-20220224221754566](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221754566.png)
+![image-20220224221754566](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221754566.png)
 
 
 
-![image-20220224221832480](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221832480.png)
+![image-20220224221832480](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221832480.png)
 
 
 
-![image-20220224221901770](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224221901770.png)
+![image-20220224221901770](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224221901770.png)
 
 
 
-![image-20220224222146699](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224222146699.png)
+![image-20220224222146699](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224222146699.png)
 
 
 
@@ -1448,7 +1448,7 @@ Query OK, 0 rows affected (0.00 sec)
 
 
 
-![image-20220224223418318](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224223418318.png)
+![image-20220224223418318](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224223418318.png)
 
 
 
@@ -1518,15 +1518,15 @@ jdbc.tablePrefix=b3_solo
 
 
 
-![image-20220224223855433](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224223855433.png)
+![image-20220224223855433](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224223855433.png)
 
 
 
-![image-20220224223917897](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224223917897.png)
+![image-20220224223917897](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224223917897.png)
 
 
 
-![image-20220224224014013](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224224014013.png)
+![image-20220224224014013](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224224014013.png)
 
 
 
@@ -1580,7 +1580,7 @@ jdbc.tablePrefix=b3_solo
 
 
 
-![image-20220224225051498](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224225051498.png)
+![image-20220224225051498](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224225051498.png)
 
 
 
@@ -1708,7 +1708,7 @@ Login Succeeded
 
 
 
-![image-20220224231004637](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224231004637.png)
+![image-20220224231004637](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224231004637.png)
 
 
 
@@ -1768,25 +1768,17 @@ tomcat is running
 
 
 
-![image-20220224231659567](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224231659567.png)
+![image-20220224231659567](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224231659567.png)
 
 
 
-![image-20220224231808502](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224231808502.png)
-
-
-
-
-
-![image-20220224233231807](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224233231807.png)
+![image-20220224231808502](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224231808502.png)
 
 
 
 
 
-
-
-![image-20220224233433469](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220224233433469.png)
+![image-20220224233231807](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224233231807.png)
 
 
 
@@ -1794,7 +1786,7 @@ tomcat is running
 
 
 
-![image-20220225014415364](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014415364.png)
+![image-20220224233433469](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220224233433469.png)
 
 
 
@@ -1802,7 +1794,7 @@ tomcat is running
 
 
 
-![image-20220225014449916](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014449916.png)
+![image-20220225014415364](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014415364.png)
 
 
 
@@ -1810,7 +1802,7 @@ tomcat is running
 
 
 
-![image-20220225014608778](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014608778.png)
+![image-20220225014449916](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014449916.png)
 
 
 
@@ -1818,7 +1810,15 @@ tomcat is running
 
 
 
-![image-20220225014711014](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014711014.png)
+![image-20220225014608778](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014608778.png)
+
+
+
+
+
+
+
+![image-20220225014711014](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014711014.png)
 
 
 
@@ -1865,29 +1865,29 @@ docker container run -d --name blog-solo -p 80:8080 $REPOSITORY
 
 
 
-![image-20220225014217956](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014217956.png)
+![image-20220225014217956](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014217956.png)
 
 
 
-![image-20220225014302077](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014302077.png)
-
-
-
-
-
-
-
-![image-20220225014131634](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014131634.png)
+![image-20220225014302077](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014302077.png)
 
 
 
 
 
-![image-20220225014949917](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225014949917.png)
+
+
+![image-20220225014131634](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014131634.png)
 
 
 
 
 
-![image-20220225013841677](基于Docker容器DevOps应用方案 企业业务代码发布系统.assets/image-20220225013841677.png)
+![image-20220225014949917](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225014949917.png)
+
+
+
+
+
+![image-20220225013841677](https://gitee.com/chnpngwng/typora-image/raw/master/assets/docker/image-20220225013841677.png)
 
